@@ -1,6 +1,4 @@
 import PropTypes from 'prop-types';
-// import { ThemeProvider } from 'styled-components';
-// import { theme } from '../Layout';
 import { nanoid } from 'nanoid';
 import { Formik, ErrorMessage } from 'formik';
 import * as Yup from 'yup';
